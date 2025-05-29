@@ -1,0 +1,7 @@
+O controle e versionamento de código no Notebook da Azure é essencial para gerenciar alterações e manter o desenvolvimento dentro do Azure Databricks.
+Dentro do Azure Databricks, o versionamento pode ser realizado de algumas maneiras, como:
+
+Git Integration: Permite que os notebooks sejam vinculados a repositórios GitHub, Azure DevOps ou Bitbucket, possibilitando commits e controle de versões.
+Histórico de revisões onde o Databricks armazena automaticamente versões anteriores do código.
+Histórico de Revisões: O Databricks armazena automaticamente versões anteriores do código, permitindo que desenvolvedores revertam mudanças quando necessário.
+Databricks Repos: Essa funcionalidade facilita a organização do código, permitindo sincronização e colaboração entre equipes.
