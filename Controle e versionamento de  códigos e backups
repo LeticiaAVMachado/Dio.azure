@@ -1,0 +1,6 @@
+O gitHub e o Azure DevOps são duas plataformas que oferecem suporte ao versionamento de código e backups, essenciais para garantir a integridade e rastreabilidade do desenvolvimento de software.
+O GitHub é um sistema baseado em git que permite a criação de repositórios para armazenamento de códigos,realizam commits,utiliza branches,aplica pull request entre outros...
+Ele também oferece GitHub Actions, que pode automatizar processos como backups e integrações contínuas.
+
+Já o Azure DevOps é um ambiente para gerenciar o ciclo de vida do software com Azure Repos,pipelines,Artifacts,entre outros...
+Além disso, o Azure Backup pode ser usado para proteger dados relacionados ao desenvolvimento, garantindo que versões anteriores sejam recuperadas quando necessário.
