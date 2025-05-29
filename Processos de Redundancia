@@ -1,0 +1,8 @@
+Os processos de redundância são estratégias utilizadas para garantir a continuidade e a confiabilidade de sistemas, evitando falhas que possam comprometer operações críticas.
+Sendo processos amplamente aplicadas em diversas areas de TI.
+Tipos de Redundância:
+Redundância de Hardware – Utilização de componentes duplicados, como servidores, discos rígidos e fontes de alimentação, para evitar falhas no sistema.
+Redundância de Software – Implementação de sistemas paralelos que podem assumir o controle em caso de falha do software principal.
+Redundância de Dados – Replicação de informações em diferentes locais para garantir a recuperação em caso de perda ou corrupção.
+Redundância de Rede – Estruturas de comunicação alternativas para evitar interrupções na conectividade.
+A redundância é muito importante para ter alta disponibilidade em um sistema,ser mais seguro e principalmente pela eficiencia profissional
